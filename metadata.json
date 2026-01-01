@@ -1,0 +1,5 @@
+{
+  "name": "Spendee PC Edition",
+  "description": "A high-end personal finance dashboard using Gemini AI to analyze bank statements and visualize finances in a dark-themed, 4-card grid layout.",
+  "requestFramePermissions": []
+}
